@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Doxyfile": "doxyfile",
+        "optional": "cpp"
+    }
+}
