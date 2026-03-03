@@ -1,6 +1,6 @@
 # test_bgl
 
-Boost Graph Library (BGL) で有向グラフを作り、Graphviz 用の `graph.dot` を出力する最小サンプルです。
+Boost Graph Library (BGL) で有向グラフを作り、Graphviz 用の `graph.dot` を出力する最小サンプル
 
 ## ファイル構成
 
